@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on My Site</title>
+        <link>http://localhost:1313/post/</link>
+        <description>Recent content in Posts on My Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 12 Jun 2024 22:00:08 +0700</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Lorem Ipsum</title>
+        <link>http://localhost:1313/post/lorem-ipsum/</link>
+        <pubDate>Wed, 12 Jun 2024 22:00:08 +0700</pubDate>
+        
+        <guid>http://localhost:1313/post/lorem-ipsum/</guid>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis justo augue. Donec magna tortor, efficitur ac commodo id, vulputate sed nulla. In tempor mi ac magna vestibulum pellentesque. Sed placerat cursus varius. Pellentesque efficitur fermentum placerat. Vivamus malesuada pharetra ipsum, ac egestas purus. Duis sapien elit, mattis sed eros in, lobortis bibendum nulla. Donec feugiat dignissim magna, eu iaculis elit gravida condimentum. Vivamus leo augue, ullamcorper vel lacus id, faucibus pulvinar ligula. Suspendisse volutpat est et est venenatis vehicula. Fusce porttitor augue velit, non maximus elit pellentesque efficitur. Nulla facilisi. Nulla at sapien vel ante mollis hendrerit quis non purus.&lt;/p&gt;
+&lt;p&gt;In tempus, purus consequat tincidunt vehicula, tellus risus porttitor justo, eu volutpat leo mi non urna. Praesent dolor tellus, cursus vitae neque sit amet, vehicula congue eros. Etiam nec orci vitae mi bibendum commodo. Morbi vel elementum odio. Nulla eleifend mattis hendrerit. Vivamus lobortis, enim at suscipit rhoncus, magna odio venenatis risus, auctor fermentum sapien quam et leo. Quisque ultrices purus et vulputate egestas. Ut massa sem, tincidunt ut laoreet non, pretium sed felis. Phasellus vel cursus nibh. Etiam posuere nec odio sit amet accumsan.&lt;/p&gt;
+&lt;p&gt;Vestibulum venenatis vestibulum arcu, iaculis sodales dolor mollis non. Mauris nec accumsan sapien. Sed cursus metus sit amet eros vulputate ultrices. Praesent commodo condimentum neque in viverra. In vestibulum velit ut suscipit lacinia. Etiam varius feugiat ultricies. Sed interdum, nisi ac posuere ullamcorper, sapien lectus cursus enim, accumsan suscipit velit arcu at metus. Praesent vitae urna magna. Donec id convallis nisi. Sed eu enim ipsum.&lt;/p&gt;
+&lt;p&gt;In sagittis condimentum pulvinar. Fusce ac augue id leo suscipit consectetur porttitor at urna. Vivamus eu dictum nisi. Ut in blandit mauris. Nam turpis eros, consectetur eu ligula nec, rhoncus condimentum urna. Proin egestas odio in tellus posuere ullamcorper sed laoreet nulla. Curabitur ac sodales ante, non luctus ex. Praesent fermentum, neque quis tristique vehicula, diam mauris lobortis urna, sollicitudin fringilla justo dolor mollis enim. Aliquam finibus vitae ex sed imperdiet. Ut in ipsum et orci lobortis suscipit.&lt;/p&gt;
+&lt;p&gt;Fusce risus lorem, blandit nec porttitor nec, laoreet nec leo. Suspendisse tempus mauris vitae rhoncus fermentum. Cras nulla est, feugiat et aliquet nec, consectetur in tortor. Pellentesque sit amet aliquet turpis, nec vehicula lacus. Mauris in velit vel nulla tempus venenatis. Praesent ac enim sit amet mauris suscipit lobortis. Sed placerat nec libero sed mollis. Cras nulla augue, sagittis sit amet nisl ac, consectetur ullamcorper sem. Fusce placerat felis vitae purus bibendum, maximus pharetra tellus aliquam. In eu nisl elit. Phasellus a sem auctor, convallis est at, volutpat lorem. Aliquam sit amet eros dignissim, scelerisque odio sit amet, malesuada purus. Vivamus lacinia molestie dui eget pretium. Nulla facilisi. Phasellus velit quam, vulputate vel maximus ac, consequat at mi. Nulla nec tortor consequat, consequat enim quis, bibendum dolor.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
