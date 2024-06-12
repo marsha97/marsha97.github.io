@@ -1,0 +1,4 @@
+baseURL = 'https://marsha97.gihub.io/'
+languageCode = 'en-us'
+title = 'My Site'
+theme = 'hugo-theme-stack'
